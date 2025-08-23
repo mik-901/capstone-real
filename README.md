@@ -1,4 +1,4 @@
-# mitush
+# Re-think Waste
 
 A new Flutter project.
 
